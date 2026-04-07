@@ -7,9 +7,10 @@ Computer Science Student | 42 Cadet | Developer
 
 # 💻 About Me
 시스템 프로그래밍 중심으로 학습 중
-C 언어 기반 프로젝트 수행
-문제 해결 중심 개발자
-C++ 학습중
+
+C 언어 기반 프로젝트 수행중
+
+C/C++ 언어 학습 
 
 # 🚧 Current Work
 42 Born2becode
