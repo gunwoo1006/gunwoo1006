@@ -1,18 +1,18 @@
-김건우 (Gunwoo Kim)
+## 김건우 (Gunwoo Kim)
 
-Computer Science Student | 42 Cadet | Developer
+ # Computer Science Student | 42 Cadet | Developer
 
-🎓 Education
+# 🎓 Education
 컴퓨터공학과 전공
 42 과정 진행 중
 
-💻 About Me
+# 💻 About Me
 시스템 프로그래밍 중심으로 학습 중
 C 언어 기반 프로젝트 수행
 문제 해결 중심 개발자
 
-🚧 Current Work
+# 🚧 Current Work
 42 Cadet 과정 진행 중
 
-📫 Contact
+# 📫 Contact
 Email: gunwoo1006@gmail.com
