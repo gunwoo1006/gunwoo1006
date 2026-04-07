@@ -1,29 +1,18 @@
-Just stop your crying
+김건우 (Gunwoo Kim)
 
-It's a sign of the times
+Computer Science Student | 42 Cadet | Developer
 
-Welcome to the final show
+🎓 Education
+컴퓨터공학과 전공
+42 과정 진행 중
 
-Hope you're wearing your best clothes
+💻 About Me
+시스템 프로그래밍 중심으로 학습 중
+C 언어 기반 프로젝트 수행
+문제 해결 중심 개발자
 
-You can't bribe the door on your way to the sky
+🚧 Current Work
+42 Cadet 과정 진행 중
 
-You look pretty good down here
-
-But you ain't really good
-
-
-<!--
-**gunwoo1006/gunwoo1006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 Contact
+Email: gunwoo1006@gmail.com
