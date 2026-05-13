@@ -11,7 +11,7 @@ Computer Science Student | 42 Cadet | Developer
 
 C 언어 기반 프로젝트 수행중
 
-C/C++ 언어 학습 
+C/C++/shell/javascript
 
 # 🚧 Current Work
 42 Born2becode
