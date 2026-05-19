@@ -14,7 +14,7 @@ C 언어 기반 프로젝트 수행중
 C/C++/shell/javascript
 
 # 🚧 Current Work
-42 Born2becode
+42 piscine/cadet과정
 
 영남대학교 학사과정
 
